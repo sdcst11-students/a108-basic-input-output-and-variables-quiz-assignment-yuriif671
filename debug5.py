@@ -2,4 +2,4 @@
 """
 Debug this program so that it runs
 """
-print("Hello world)"
+print("Hello world")
